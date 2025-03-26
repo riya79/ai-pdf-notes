@@ -17,10 +17,11 @@ The application is deployed on **Vercel**, ensuring fast performance and scalabi
 **Check out the app on:** [AI PDF Notes App](https://ai-pdf-notes-swart.vercel.app/)
 
 ## Tech Stack
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js (if applicable)
-- **AI Processing:** OpenAI API / Other AI services (if applicable)
-- **Hosting:** Vercel
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js
+- **AI Processing:** LangChain, Google Gemini API
+- **Database:**Convex
+- **Deployment:** Vercel
 
 ## Usage
 1. Open the deployed application using the link above.
