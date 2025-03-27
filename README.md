@@ -3,7 +3,7 @@
 ## Overview
 AI PDF Notes is a web application that allows users to upload PDFs and generate AI-powered notes, summaries, and insights from the document. The app is deployed on **Vercel** and is accessible at:
 
-[AI PDF Notes App](https://ai-pdf-notes-swart.vercel.app/)
+[AI PDF Notes App](https://ai-pdf-notes-84i3.vercel.app)
 
 ## Features
 - Upload and process PDF documents.
@@ -14,7 +14,7 @@ AI PDF Notes is a web application that allows users to upload PDFs and generate 
 ## Deployment
 The application is deployed on **Vercel**, ensuring fast performance and scalability.
 
-**Check out the app on:** [AI PDF Notes App](https://ai-pdf-notes-swart.vercel.app/)
+**Check out the app on:** [AI PDF Notes App](https://ai-pdf-notes-84i3.vercel.app)
 
 ## Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind CSS
